@@ -5,10 +5,6 @@
 </p>
 
 
-<h2>Video link:  </h2>
-<p> we have shared a demo presentation of this project "meesho-Clone". </p>
-https://drive.google.com/file/d/1-0P7yiPrVxaUn1ze5VNv9s9ROUZ8ctBA/view?usp=sharing
-
 
 <h2> Deployed Link </h2>
 https://meesho-replica.netlify.app/index.html
