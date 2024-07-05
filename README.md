@@ -7,7 +7,7 @@
 
 
 <h2> Deployed Link </h2>
-[https://meesho-replica.netlify.app/index.html](https://clone-meesho.vercel.app/)
+https://clone-meesho.vercel.app/
 
 
 <h2> Snapshots </h2>
